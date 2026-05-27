@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WalkieBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b8255a64229d328f2dfc391d3a6c80d5b21daba")]
 [assembly: System.Reflection.AssemblyProductAttribute("WalkieBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WalkieBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
